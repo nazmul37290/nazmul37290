@@ -1,5 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=nazmul37290&theme=whatsapp-dark&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=800&card_height=200&fire=EB5454&ring=2BAA67)](https://git.io/streak-stats)
-#Technologies 
+<h2>🚀 Some Technologies I Use</h2>
 <p align="left" bg="black">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 
