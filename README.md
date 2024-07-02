@@ -1,6 +1,22 @@
+
 <p>
   <img src="https://i.ibb.co/12WTYfR/linked-In-Banner.png"/>
 </p>
+
+<h2>🚀 About me</h2>
+
+🌐 Web Developer | React Enthusiast
+
+👋 Hi there! I’m a passionate web developer with a strong proficiency in React. I love building dynamic and responsive web applications that provide great user experiences. Here are a few things about me:
+
+🚀 Skilled in JavaScript, HTML, and CSS
+
+🎨 Experienced with modern web design and development practices
+
+📚 Continuously learning and exploring new technologies
+
+💼 Open to collaborating on exciting projects
+
 
 
 <h2>🚀 Some Technologies I Use</h2>
