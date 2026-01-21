@@ -36,5 +36,4 @@
 
 </p>
 <h2>🚀 My contributions</h2>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nazmul37290" alt="GitHub Streak" /></a>
 <a href="https://git.io/streak-stats"><img  src="https://streak-stats.demolab.com?user=nazmul37290&theme=dark&card_width=1000&card_height=200&fire=EB8A3E" alt="GitHub Streak" /></a>
